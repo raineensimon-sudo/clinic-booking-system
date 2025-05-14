@@ -1,7 +1,9 @@
 # 🏥 Clinic Booking System
 
 ## 📘 Description
+
 A simple MySQL database project that manages:
+
 - Doctors
 - Patients
 - Appointments
@@ -17,3 +19,6 @@ A simple MySQL database project that manages:
 CREATE DATABASE clinic_db;
 USE clinic_db;
 -- Then run the SQL from clinic_booking_system.sql
+```
+
+![ERD](./image/erd.png)
